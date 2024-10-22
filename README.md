@@ -1,4 +1,4 @@
-# Simple_Linux_Updater
+# Simple_System_Updater
 This is a simple Bash script designed to perform system updates on Linux distributions based on either Arch or Debian (including Ubuntu and Parrot OS). It automatically detects the operating system and runs the appropriate update commands for the respective platform.
 
 Features:
